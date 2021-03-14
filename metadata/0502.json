@@ -1,0 +1,11 @@
+{
+  "name": "MAX FANG",
+  "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam",
+  "image": "https://github.com/videvago/wolves.assets.low/raw/main/cards/wolves/level2/MAX-500.jpg",
+  "external_url": "https://app.wolvesofwallstreet.finance/detail?type=wolves&levelId=1&cardId=fang",
+  "localization": {
+    "uri": "./0502_{locale}.json",
+    "default": "en",
+    "locales": ["en", "zh"]
+  }
+}
