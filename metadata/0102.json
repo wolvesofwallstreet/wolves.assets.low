@@ -1,0 +1,11 @@
+{
+  "name": "ETHAN T-HOUND",
+  "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam",
+  "image": "https://github.com/videvago/wolves.assets.low/raw/main/cards/bois/level2/ETHAN-500.jpg",
+  "external_url": "https://app.wolvesofwallstreet.finance/detail?type=bois&levelId=1&cardId=hound",
+  "localization": {
+    "uri": "./0102_{locale}.json",
+    "default": "en",
+    "locales": ["en", "zh"]
+  }
+}
