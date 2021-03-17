@@ -3,6 +3,6 @@
   "description": "Here you can see all your SFT. Note that you only can view",
   "image": "https://github.com/wolvesofwallstreet/wolves.assets.low/raw/main/logo.png",
   "external_link": "https://wolvesofwallstreet.finance",
-  "seller_fee_basis_points": 100, # 1%
-  "fee_recipient": "0xbb5a7c17adE983f03AFd8B09922b1C117b9eabc0" # gnosis
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0xbb5a7c17adE983f03AFd8B09922b1C117b9eabc0"
 }
