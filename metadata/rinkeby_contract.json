@@ -4,5 +4,5 @@
   "image": "https://github.com/wolvesofwallstreet/wolves.assets.low/raw/main/logo.png",
   "external_link": "https://wolvesofwallstreet.finance",
   "seller_fee_basis_points": 100,
-  "fee_recipient": "0x7Df8c0E18c6103B1f5037032ca02A960cd4F67E4" # gnosis
+  "fee_recipient": "0x7Df8c0E18c6103B1f5037032ca02A960cd4F67E4"
 }
