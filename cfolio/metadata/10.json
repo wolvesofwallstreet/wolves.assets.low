@@ -1,1 +1,25 @@
-{"name":"HODL FOREVER","description":"Long term investment is the smartest. By playing the long game, you win immeasurably.","image":"https://4travelers.de/wolves_assets/cfolio/images/10-500.jpg","external_url":"https://app.wows.finance/cfolio-invest?type=yearnInvestment&item=0","localization":{"uri":"./10_{locale}.json","default":"en_US","locales":["en_US"]}}
+{
+  "name": "HODL FOREVER",
+  "description": "Long term investment is the smartest. By playing the long game, you win immeasurably.",
+  "image": "https://4travelers.de/wolves_assets/cfolio/images/10-500.jpg",
+  "external_url": "https://app.wows.finance/cfolio-invest?type=yearnInvestment&item=0",
+  "attributes": [{
+      "trait_type": "DeFi Protocol",
+      "value": "Wolves of Wall Street"
+    }, {
+      "trait_type": "Investment NFT Type",
+      "value": "Lending Stablecoin Yearn"
+    }, {
+      "trait_type": "Investment Value",
+      "value": "0 YUSD"
+    }, {
+      "trait_type": "Max Supply",
+      "value": "100"
+    }
+  ],
+  "localization": {
+    "uri": "./10_{locale}.json",
+    "default": "en_US",
+    "locales": ["en_US"]
+  }
+}

@@ -1,1 +1,25 @@
-{"name":"THE RISK REWARD","description":"Risk trading is what keeps us alive. Risk makes us feel. Risk is always good if managed wisely.","image":"https://4travelers.de/wolves_assets/cfolio/images/01-500.jpg","external_url":"https://app.wows.finance/cfolio-invest?type=lpInvestment&item=1","localization":{"uri":"./01_{locale}.json","default":"en_US","locales":["en_US"]}}
+{
+  "name": "THE RISK REWARD",
+  "description": "Risk trading is what keeps us alive. Risk makes us feel. Risk is always good if managed wisely.",
+  "image": "https://4travelers.de/wolves_assets/cfolio/images/01-500.jpg",
+  "external_url": "https://app.wows.finance/cfolio-invest?type=lpInvestment&item=1",
+  "attributes": [{
+      "trait_type": "DeFi Protocol",
+      "value": "Wolves of Wall Street"
+    }, {
+      "trait_type": "Investment NFT Type",
+      "value": "Staking ETH/WOWS LP"
+    }, {
+      "trait_type": "Investment Value",
+      "value": "0"
+    }, {
+      "trait_type": "Max Supply",
+      "value": "100"
+    }
+  ],
+  "localization": {
+    "uri": "./01_{locale}.json",
+    "default": "en_US",
+    "locales": ["en_US"]
+  }
+}

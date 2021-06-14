@@ -1,1 +1,25 @@
-{"name":"A POWERSHIFT","description":"Yield more and take your power back from traditional financial institutions who stick you for low interest rates. Watch your investments grow in crypto. Measured risk, slow and steady wins the race.","image":"https://4travelers.de/wolves_assets/cfolio/images/11-500.jpg","external_url":"https://app.wows.finance/cfolio-invest?type=yearnInvestment&item=1","localization":{"uri":"./11_{locale}.json","default":"en_US","locales":["en_US"]}}
+{
+  "name": "A POWERSHIFT",
+  "description": "Yield more and take your power back from traditional financial institutions who stick you for low interest rates. Watch your investments grow in crypto. Measured risk, slow and steady wins the race.",
+  "image": "https://4travelers.de/wolves_assets/cfolio/images/11-500.jpg",
+  "external_url": "https://app.wows.finance/cfolio-invest?type=yearnInvestment&item=1",
+  "attributes": [{
+      "trait_type": "DeFi Protocol",
+      "value": "Wolves of Wall Street"
+    }, {
+      "trait_type": "Investment NFT Type",
+      "value": "Lending Stablecoin Yearn"
+    }, {
+      "trait_type": "Investment Value",
+      "value": "0 YUSD"
+    }, {
+      "trait_type": "Max Supply",
+      "value": "100"
+    }
+  ],
+  "localization": {
+    "uri": "./11_{locale}.json",
+    "default": "en_US",
+    "locales": ["en_US"]
+  }
+}

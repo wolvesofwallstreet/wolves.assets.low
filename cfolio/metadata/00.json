@@ -1,1 +1,25 @@
-{"name":"UNSTOPPABLE","description":"This wild crypto market is only for the brave. Let them think you're crazy as they stand on the sidelines judging. We all know in reality it's always the players like you in the game who win.","image":"https://4travelers.de/wolves_assets/cfolio/images/00-500.jpg","external_url":"https://app.wows.finance/cfolio-invest?type=lpInvestment&item=0","localization":{"uri":"./00_{locale}.json","default":"en_US","locales":["en_US"]}}
+{
+  "name": "UNSTOPPABLE",
+  "description": "This wild crypto market is only for the brave. Let them think you're crazy as they stand on the sidelines judging. We all know in reality it's always the players like you in the game who win.",
+  "image": "https://4travelers.de/wolves_assets/cfolio/images/00-500.jpg",
+  "external_url": "https://app.wows.finance/cfolio-invest?type=lpInvestment&item=0",
+  "attributes": [{
+      "trait_type": "DeFi Protocol",
+      "value": "Wolves of Wall Street"
+    }, {
+      "trait_type": "Investment NFT Type",
+      "value": "Staking ETH/WOWS LP"
+    }, {
+      "trait_type": "Investment Value",
+      "value": "0"
+    }, {
+      "trait_type": "Max Supply",
+      "value": "100"
+    }
+  ],
+  "localization": {
+    "uri": "./00_{locale}.json",
+    "default": "en_US",
+    "locales": ["en_US"]
+  }
+}
