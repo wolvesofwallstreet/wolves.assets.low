@@ -1,1 +1,24 @@
-{"name":"AXEL  FUURRLEY","description":"He’s the pre-market pro, hailing from Conneticut. Axle made his billions by maintaining his liquidity in the market by offsetting trades from others. Working nights and sleeping in the day is how he gets ahead of the game. Don’t be deceived by his sleepy face, this nocturnal nightmare will bite your hand off if you so much as touch his trades.","image":"https://4travelers.de/wolves_assets/cards/wolves/level1/AXEL-500.jpg","external_url":"https://app.wows.finance/detail?type=wolves&levelId=0&cardId=axel","localization":{"uri":"./0401_{locale}.json","default":"en_US","locales":["en_US","zh_CN"]}}
+{
+  "name": "AXEL  FUURRLEY",
+  "description": "He’s the pre-market pro, hailing from Conneticut. Axle made his billions by maintaining his liquidity in the market by offsetting trades from others. Working nights and sleeping in the day is how he gets ahead of the game. Don’t be deceived by his sleepy face, this nocturnal nightmare will bite your hand off if you so much as touch his trades.",
+  "image": "https://4travelers.de/wolves_assets/cards/wolves/level1/AXEL-500.jpg",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "One of the Wolves"
+    },
+    {
+      "trait_type": "Cryptofolio Level",
+      "value": "PRODIGY"
+    }
+  ],
+  "external_url": "https://app.wows.finance/detail?type=wolves&levelId=0&cardId=axel",
+  "localization": {
+    "uri": "./0401_{locale}.json",
+    "default": "en_US",
+    "locales": [
+      "en_US",
+      "zh_CN"
+    ]
+  }
+}
