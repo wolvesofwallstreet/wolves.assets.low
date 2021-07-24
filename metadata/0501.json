@@ -1,7 +1,7 @@
 {
   "name": "LAYLA KNIGHT",
   "description": "This she-wolf warrior loves to chase the moon in the cloak of darkness when she’s trading those red-hot Russian markets. Layla slays the Oligarchs with her ice queen trades. It’s enough to make your blood run cold.",
-  "image": "https://4travelers.de/wolves_assets/cards/wolves/level2/LAYLA-500.mp4.jpg",
+  "image": "https://meta.wows.finance/wolves_assets/cards/wolves/level2/LAYLA-500.mp4.jpg",
   "attributes": [
     {
       "trait_type": "Team",
@@ -21,5 +21,5 @@
       "zh_CN"
     ]
   },
-  "animation_url": "https://4travelers.de/wolves_assets/cards/wolves/level2/LAYLA-500.mp4"
+  "animation_url": "https://meta.wows.finance/wolves_assets/cards/wolves/level2/LAYLA-500.mp4"
 }

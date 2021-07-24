@@ -1,0 +1,25 @@
+{
+  "name": "WARG THE WATCHER",
+  "description": "He watches trades like a hunter, our Warg is always ready to pounce. You won't see him coming until it's too late! His fearless and substantial trades will make anything go green but if you stop the train before he strikes, you’ll be sheepishly left behind.",
+  "image": "https://meta.wows.finance/wolves_assets/cards/wolves/level2/WARG-500.mp4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "One of the Wolves"
+    },
+    {
+      "trait_type": "Cryptofolio Level",
+      "value": "PHENOM"
+    }
+  ],
+  "external_url": "https://app.wows.finance/detail?type=wolves&levelId=1&cardId=watcher",
+  "localization": {
+    "uri": "./0503_{locale}.json",
+    "default": "en_US",
+    "locales": [
+      "en_US",
+      "zh_CN"
+    ]
+  },
+  "animation_url": "https://meta.wows.finance/wolves_assets/cards/wolves/level2/WARG-500.mp4"
+}
