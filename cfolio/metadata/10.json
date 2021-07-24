@@ -1,7 +1,7 @@
 {
   "name": "HODL FOREVER",
   "description": "Long term investment is the smartest. By playing the long game, you win immeasurably.",
-  "image": "https://4travelers.de/wolves_assets/cfolio/images/10-500.jpg",
+  "image": "https://meta.wows.finance/wolves_assets/cfolio/images/10-500.jpg",
   "external_url": "https://app.wows.finance/cfolio-invest?type=yearnInvestment&item=0",
   "attributes": [{
       "trait_type": "DeFi Protocol",
