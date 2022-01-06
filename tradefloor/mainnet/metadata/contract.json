@@ -1,0 +1,8 @@
+{
+  "name": "WolvesOfWallstreet Tradefloor NFTs",
+  "description": "We are a gamified NFT/DeFi project creating a unique innovation of SFTs as a CRYPTOFOLIO with the ability to add in NFTs to earn yield, become collateral for lending and collect rewards & shared profit. We are pushing what is possible with SFTs & NFTs in this space.",
+  "image": "https://meta.wows.finance/wolves_assets/logo.png",
+  "external_link": "https://app.wows.finance",
+  "seller_fee_basis_points": 1000,
+  "fee_recipient": "0xbb5a7c17adE983f03AFd8B09922b1C117b9eabc0"
+}
