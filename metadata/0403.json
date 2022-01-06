@@ -1,1 +1,24 @@
-{"name":"PAWLY SINATRO","description":"Fierce on the trading floor, Pawly shorts his stocks with zero conscience. He’s unapproachable unless he gets his adrenaline fix and makes bank. Salivating over his pack-mates’ losses, he’s built to win and often celebrates with a strong, long Harvey Wallbanger after he’s made his gains.","image":"https://4travelers.de/wolves_assets/cards/wolves/level1/PAWLY-500.jpg","external_url":"https://app.wows.finance/detail?type=wolves&levelId=0&cardId=pawly","localization":{"uri":"./0403_{locale}.json","default":"en_US","locales":["en_US","zh_CN"]}}
+{
+  "name": "PAWLY SINATRO",
+  "description": "Fierce on the trading floor, Pawly shorts his stocks with zero conscience. He’s unapproachable unless he gets his adrenaline fix and makes bank. Salivating over his pack-mates’ losses, he’s built to win and often celebrates with a strong, long Harvey Wallbanger after he’s made his gains.",
+  "image": "https://meta.wows.finance/wolves_assets/cards/wolves/level1/PAWLY-500.jpg",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "One of the Wolves"
+    },
+    {
+      "trait_type": "Cryptofolio Level",
+      "value": "PRODIGY"
+    }
+  ],
+  "external_url": "https://app.wows.finance/detail?type=wolves&levelId=0&cardId=pawly",
+  "localization": {
+    "uri": "./0403_{locale}.json",
+    "default": "en_US",
+    "locales": [
+      "en_US",
+      "zh_CN"
+    ]
+  }
+}

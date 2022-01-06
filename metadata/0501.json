@@ -1,1 +1,25 @@
-{"name":"LAYLA KNIGHT","description":"This she-wolf warrior loves to chase the moon in the cloak of darkness when she’s trading those red-hot Russian markets. Layla slays the Oligarchs with her ice queen trades. It’s enough to make your blood run cold.","image":"https://4travelers.de/wolves_assets/cards/wolves/level2/LAYLA-500.mp4.jpg","external_url":"https://app.wows.finance/detail?type=wolves&levelId=1&cardId=knight","localization":{"uri":"./0501_{locale}.json","default":"en_US","locales":["en_US","zh_CN"]},"animation_url":"https://4travelers.de/wolves_assets/cards/wolves/level2/LAYLA-500.mp4"}
+{
+  "name": "LAYLA KNIGHT",
+  "description": "This she-wolf warrior loves to chase the moon in the cloak of darkness when she’s trading those red-hot Russian markets. Layla slays the Oligarchs with her ice queen trades. It’s enough to make your blood run cold.",
+  "image": "https://meta.wows.finance/wolves_assets/cards/wolves/level2/LAYLA-500.mp4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "One of the Wolves"
+    },
+    {
+      "trait_type": "Cryptofolio Level",
+      "value": "PHENOM"
+    }
+  ],
+  "external_url": "https://app.wows.finance/detail?type=wolves&levelId=1&cardId=knight",
+  "localization": {
+    "uri": "./0501_{locale}.json",
+    "default": "en_US",
+    "locales": [
+      "en_US",
+      "zh_CN"
+    ]
+  },
+  "animation_url": "https://meta.wows.finance/wolves_assets/cards/wolves/level2/LAYLA-500.mp4"
+}

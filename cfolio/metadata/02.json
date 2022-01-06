@@ -1,0 +1,25 @@
+{
+  "name": "YOU HAVE SEEN",
+  "description": "The impending doom of the traditional financial system is nearing. You're smart and investing in the right places with De-Fi, bullet proofing your future. You'll laugh when the collapse comes.",
+  "image": "https://meta.wows.finance/wolves_assets/cfolio/images/02-500.jpg",
+  "external_url": "https://app.wows.finance/cfolio-invest?type=lpInvestment&item=2",
+  "attributes": [{
+      "trait_type": "DeFi Protocol",
+      "value": "Wolves of Wall Street"
+    }, {
+      "trait_type": "Investment NFT Type",
+      "value": "Staking ETH/WOWS LP"
+    }, {
+      "trait_type": "Investment Value",
+      "value": "0"
+    }, {
+      "trait_type": "Max Supply",
+      "value": "100"
+    }
+  ],
+  "localization": {
+    "uri": "./02_{locale}.json",
+    "default": "en_US",
+    "locales": ["en_US"]
+  }
+}

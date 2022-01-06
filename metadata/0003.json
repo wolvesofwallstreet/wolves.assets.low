@@ -1,1 +1,24 @@
-{"name":"LUCY LAPPLEY","description":"With more ideas than you can shake a stick at, Lucy has a keen nose for creative juices and always finds the core USP of any business. She won’t stop until she’s wowed her crowd and smelt out that secret sauce.","image":"https://4travelers.de/wolves_assets/cards/bois/level1/LUCY-500.jpg","external_url":"https://app.wows.finance/detail?type=bois&levelId=0&cardId=lucy","localization":{"uri":"./0003_{locale}.json","default":"en_US","locales":["en_US","zh_CN"]}}
+{
+  "name": "LUCY LAPPLEY",
+  "description": "With more ideas than you can shake a stick at, Lucy has a keen nose for creative juices and always finds the core USP of any business. She won’t stop until she’s wowed her crowd and smelt out that secret sauce.",
+  "image": "https://meta.wows.finance/wolves_assets/cards/bois/level1/LUCY-500.jpg",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "One of the Bois"
+    },
+    {
+      "trait_type": "Cryptofolio Level",
+      "value": "PRODIGY"
+    }
+  ],
+  "external_url": "https://app.wows.finance/detail?type=bois&levelId=0&cardId=lucy",
+  "localization": {
+    "uri": "./0003_{locale}.json",
+    "default": "en_US",
+    "locales": [
+      "en_US",
+      "zh_CN"
+    ]
+  }
+}
